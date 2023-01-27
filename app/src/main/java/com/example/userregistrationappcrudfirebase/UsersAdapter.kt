@@ -45,4 +45,11 @@ class UsersAdapter(
         return userList.size
     }
 
+    fun getUserId(position: Int) : String {
+
+        return userList[position].userId
+
+
+    }
+
 }
