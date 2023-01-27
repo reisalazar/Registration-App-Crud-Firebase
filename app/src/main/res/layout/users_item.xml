@@ -8,7 +8,7 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textViewName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -18,7 +18,7 @@
         android:textSize="20sp" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textViewAge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -28,7 +28,7 @@
         android:textSize="20sp" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textViewEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
